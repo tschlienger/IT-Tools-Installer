@@ -1,4 +1,6 @@
 DisplayName,PackageName,Version,PackageManager
+1Password,AgileBits.1Password,,winget
+Royal TS,RoyalApps.RoyalTS,,winget
 Chrome,Google.Chrome,,winget
 Notepad++,Notepad++.Notepad++,,winget
 GIMP,GIMP.GIMP,,winget
@@ -10,15 +12,12 @@ Advanced IP Scanner,Famatech.AdvancedIPScanner,,winget
 Double Commander,alexx2000.DoubleCommander,,winget
 Mp3tag,Mp3tag.Mp3tag,,winget
 Cyberduck,Iterate.Cyberduck,,winget
-GitHub Desktop,GitHub.GitHubDesktop,,winget
 Greenshot,Greenshot.Greenshot,,winget
-XAMPP,ApacheFriends.Xampp,,winget
 WinDirStat,WinDirStat.WinDirStat,,winget
 Postman,Postman.Postman,,winget
 Win32 Disk Imager,Win32diskimager.win32diskimager,,winget
 VLC,VideoLAN.VLC,,winget
 CrystalDiskInfo,CrystalDewWorld.CrystalDiskInfo,,winget
-Royal TS,RoyalApps.RoyalTS,,winget
 MakeMKV,GuinpinSoft.MakeMKV,,winget
 HandBrake,HandBrake.HandBrake,,winget
 DupeGuru,DupeGuru.DupeGuru,,winget
@@ -56,6 +55,5 @@ Non-Sucking Service Manager,nssm,,winget
 OpenAudible,openaudible,,winget
 KiTTY,kitty,,winget
 FreeFileSync,freefilesync,,winget
-1Password,AgileBits.1Password,,winget
 OhMyPosh,JanDeDobbeleer.OhMyPosh,,winget
 PowerToys,Microsoft.PowerToys,,winget
