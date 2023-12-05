@@ -1,8 +1,6 @@
 DisplayName,PackageName,Version,PackageManager
-Java,Oracle.JavaRuntimeEnvironment,,winget
 Chrome,Google.Chrome,,winget
 Notepad++,Notepad++.Notepad++,,winget
-Atom,GitHub.Atom,,winget
 GIMP,GIMP.GIMP,,winget
 Audacity,Audacity.Audacity,,winget
 Rufus,Rufus.Rufus,,winget
@@ -20,26 +18,20 @@ Postman,Postman.Postman,,winget
 Win32 Disk Imager,Win32diskimager.win32diskimager,,winget
 VLC,VideoLAN.VLC,,winget
 CrystalDiskInfo,CrystalDewWorld.CrystalDiskInfo,,winget
-Royal TS,RoyalApps.RoyalTS,5.04.60415.0,winget
+Royal TS,RoyalApps.RoyalTS,,winget
 MakeMKV,GuinpinSoft.MakeMKV,,winget
 HandBrake,HandBrake.HandBrake,,winget
 DupeGuru,DupeGuru.DupeGuru,,winget
 WinMerge,WinMerge.WinMerge,,winget
-NodeJS,OpenJS.NodeJS,,winget
-SublimeText,SublimeHQ.SublimeText.4,,winget
 TeamViewer,TeamViewer.TeamViewer,,winget
-Nmap,Insecure.Nmap,,winget
 Fiddler Everywhere,Telerik.Fiddler.Everywhere,,winget
 DB Browser for SQLite,DBBrowserForSQLite.DBBrowserForSQLite,,winget
 DBeaver,dbeaver.dbeaver,,winget
 HeidiSQL,HeidiSQL.HeidiSQL,,winget
-Sigil,Sigil-Ebook.Sigil,,winget
 Git,Git.Git,,winget
 MQTT Explorer,thomasnordquist.MQTT-Explorer,,winget
-Calibre,calibre.calibre,,winget
 MKVToolNix,MKVToolNix.MKVToolNix,,winget
 Ueli,OliverSchwendener.ueli,,winget
-QuickLook,QL-Win.QuickLook,,winget
 Spotify,Spotify.Spotify,,winget
 Telegram Desktop,Telegram.TelegramDesktop,,winget
 VisualStudio Code,Microsoft.VisualStudioCode,,winget
@@ -49,22 +41,21 @@ LockHunter,CrystalRich.LockHunter,,winget
 Batch Image Resizer,BinaryMark.BatchImageResizer,,winget
 ImageMagick,ImageMagick.ImageMagick,,winget
 Master Packager,MasterPackager.MasterPackager,,winget
-NuGet Package Explorer,NuGetPackageExplorer.NuGetPackageExplorer,,winget
-ShellExView,NirSoft.ShellExView,,winget
 Packet Sender,NagleCode.PacketSender,,winget
-Wireshark,WiresharkFoundation.Wireshark,,winget
 Tera Term,TeraTermProject.teraterm,,winget
 TeraCopy,CodeSector.TeraCopy,,winget
-Paint.NET,paint.net,,choco
-ComicRack,comicrack,,choco
-NTLite,ntlite-free,,choco
-Sysinternals,sysinternals,,choco
-Process Hacker,processhacker,,choco
-VeraCrypt,veracrypt,,choco
-Node Version Manager,nvm,,choco
-TCPView,tcpview,,choco
-RegShot,regshot,,choco
-Non-Sucking Service Manager,nssm,,choco
-OpenAudible,openaudible,,choco
-KiTTY,kitty,,choco
-FreeFileSync,freefilesync,,choco
+Paint.NET,paint.net,,winget
+NTLite,ntlite-free,,winget
+Sysinternals,sysinternals,,winget
+Process Hacker,processhacker,,winget
+VeraCrypt,veracrypt,,winget
+Node Version Manager,CoreyButler.NVMforWindows,,winget
+TCPView,tcpview,,winget
+RegShot,regshot,,winget
+Non-Sucking Service Manager,nssm,,winget
+OpenAudible,openaudible,,winget
+KiTTY,kitty,,winget
+FreeFileSync,freefilesync,,winget
+1Password,AgileBits.1Password,,winget
+OhMyPosh,JanDeDobbeleer.OhMyPosh,,winget
+PowerToys,Microsoft.PowerToys,,winget
