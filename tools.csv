@@ -35,7 +35,6 @@ Spotify,Spotify.Spotify,,winget
 Telegram Desktop,Telegram.TelegramDesktop,,winget
 VisualStudio Code,Microsoft.VisualStudioCode,,winget
 File Converter,AdrienAllard.FileConverter,,winget
-Python,Python.Python.3,,winget
 LockHunter,CrystalRich.LockHunter,,winget
 Batch Image Resizer,BinaryMark.BatchImageResizer,,winget
 ImageMagick,ImageMagick.ImageMagick,,winget
@@ -57,3 +56,4 @@ KiTTY,kitty,,winget
 FreeFileSync,freefilesync,,winget
 OhMyPosh,JanDeDobbeleer.OhMyPosh,,winget
 PowerToys,Microsoft.PowerToys,,winget
+PowerBI Desktop,Microsoft.PowerBI,,winget
