@@ -1,5 +1,6 @@
 DisplayName,PackageName,Version,PackageManager
 1Password,AgileBits.1Password,,winget
+1Password CLI,AgileBits.1Password.CLI,,winget
 Royal TS,RoyalApps.RoyalTS,,winget
 Chrome,Google.Chrome,,winget
 Notepad++,Notepad++.Notepad++,,winget
