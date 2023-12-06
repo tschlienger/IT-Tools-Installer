@@ -9,7 +9,7 @@ If (-Not(Get-Command winget)) {
 $ToolList = Import-Csv "$PSScriptRoot\tools.csv"
 
 Foreach ($Tool in $ToolList) {
-    Read-Host "$($Tool.DisplayName)"
+    Write-Host "Installing $($Tool.DisplayName)" -ForegroundColor Blue
     Switch ($Tool.PackageManager) {
         "winget" {
             If ($Tool.Version -ne "") {
